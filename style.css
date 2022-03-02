@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Lexend+Deca:wght@400;500;600;700;800;900&family=Montserrat:wght@100;200;300&family=Outfit:wght@200;300&family=Roboto+Mono:wght@300&family=Roboto+Slab:wght@300;700&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Lexend+Deca:wght@400;500;600;700;800;900&family=Montserrat:wght@100;200;300&family=Outfit:wght@200;300&family=Roboto+Mono:wght@300&family=Roboto+Slab:wght@300;700&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&family=Secular+One&display=swap');
+
+*{
+    padding: 0;
+}
+header{
+    padding-top: 91px;
+    padding-left: 124px;
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+
+
+}
+main{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    padding-top: 40px;
+    padding-left: 124px;
+    width: 500px;
+    height: 374px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.camera{
+    padding-left: 290px;
+    padding-top: 35px;
+    width: 280px;
+    height: 275px;
+
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0px 100px;
+    padding-top: 20px;
+    padding-right: 200px;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+
+}
+.alt{
+    font-family: 'Roboto', sans-serif;
+    width: 150px;
+    height: 39px;
+
+}
+.page{
+
+}
